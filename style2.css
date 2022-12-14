@@ -1,0 +1,37 @@
+.searchevent{
+    border-style: solid;
+}
+.header1{
+    text-align: center;
+    border: solid;
+    margin: 10px;
+   
+}
+
+.table1{
+    width: 337px;
+    height: 230px;
+    border-style: solid;
+    margin: 16px;
+}
+.headerlayout h3{
+    text-align: center;
+}
+.image1 img{
+    height: 75px;
+    width: 100px;
+    left: 9px;
+    position: relative;
+    bottom: -28px;
+}
+.data1{
+    position: relative;
+    left: 132px;
+    bottom: 75px;
+}
+.layout{
+    display: flex;
+    height: auto;
+    flex-wrap: wrap;
+    align-content: center;
+}
